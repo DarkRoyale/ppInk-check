@@ -1,0 +1,21 @@
+# Forensics Progress: ppInk
+## Planned Output
+- [x] 00_overview.md — Tech stack, architecture, entry points
+- [ ] 01_file_map.md — All source files with purpose and size
+- [ ] 02_functions/ — Function documentation (sub-files per module):
+  - [ ] 02_01_entry_bootstrap.md
+  - [ ] 02_02_core_root.md
+  - [ ] 02_03_ui_forms_formcollection.md
+  - [ ] 02_04_ui_forms_formdisplay.md
+  - [ ] 02_05_ui_forms_formoptions.md
+  - [ ] 02_06_ui_forms_misc.md
+  - [ ] 02_07_input_hotkeys.md
+  - [ ] 02_08_api_serialization.md
+  - [ ] 02_09_apng_utils.md
+  - [ ] 02_10_localization_misc.md
+- [ ] 03_relationships.md — Import graph, data flows, C4 diagram
+- [ ] 04_api.md — REST interface documentation
+- [ ] 05_database.md — File-based persistence schemas
+- [ ] 06_config.md — Config and defaults
+- [ ] 07_pain_points.md — Tech debt and risks
+- [ ] Self-review pass
