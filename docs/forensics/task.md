@@ -1,7 +1,7 @@
 # Forensics Progress: ppInk
 ## Planned Output
 - [x] 00_overview.md — Tech stack, architecture, entry points
-- [ ] 01_file_map.md — All source files with purpose and size
+- [x] 01_file_map.md — All source files with purpose and size
 - [ ] 02_functions/ — Function documentation (sub-files per module):
   - [ ] 02_01_entry_bootstrap.md
   - [ ] 02_02_core_root.md
