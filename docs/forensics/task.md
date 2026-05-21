@@ -5,14 +5,17 @@
 - [ ] 02_functions/ — Function documentation (sub-files per module):
   - [x] 02_01_entry_bootstrap.md
   - [x] 02_02_core_root.md
-  - [ ] 02_03_ui_forms_formcollection.md
-  - [ ] 02_04_ui_forms_formdisplay.md
-  - [ ] 02_05_ui_forms_formoptions.md
-  - [ ] 02_06_ui_forms_misc.md
-  - [ ] 02_07_input_hotkeys.md
-  - [ ] 02_08_api_serialization.md
-  - [ ] 02_09_apng_utils.md
-  - [ ] 02_10_localization_misc.md
+  - [x] 02_03_ui_forms_formcollection_part1.md
+  - [x] 02_04_ui_forms_formcollection_part2.md
+  - [x] 02_05_ui_forms_formcollection_part3.md
+  - [x] 02_06_ui_forms_formdisplay.md
+  - [x] 02_07_ui_forms_formoptions_part1.md
+  - [x] 02_08_ui_forms_formoptions_part2.md
+  - [x] 02_09_ui_forms_misc.md
+  - [x] 02_10_input_hotkeys.md
+  - [x] 02_11_api_serialization.md
+  - [ ] 02_12_apng_utils.md
+  - [ ] 02_13_localization_misc.md
 - [ ] 03_relationships.md — Import graph, data flows, C4 diagram
 - [ ] 04_api.md — REST interface documentation
 - [ ] 05_database.md — File-based persistence schemas
