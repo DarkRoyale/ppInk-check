@@ -3,8 +3,8 @@
 - [x] 00_overview.md — Tech stack, architecture, entry points
 - [x] 01_file_map.md — All source files with purpose and size
 - [ ] 02_functions/ — Function documentation (sub-files per module):
-  - [ ] 02_01_entry_bootstrap.md
-  - [ ] 02_02_core_root.md
+  - [x] 02_01_entry_bootstrap.md
+  - [x] 02_02_core_root.md
   - [ ] 02_03_ui_forms_formcollection.md
   - [ ] 02_04_ui_forms_formdisplay.md
   - [ ] 02_05_ui_forms_formoptions.md
